@@ -1,3 +1,3 @@
 # Matthew Mann's Project Portfolio
 
-https://MJMann.github.io
+https://mattjmann.github.io
